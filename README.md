@@ -27,3 +27,6 @@ NEED TO ADD:
     Discription of data sets (haiden)
     add neighborhood data set (haiden)
     A one sentence overview of your repository, meant for someone who is not familiar with the project
+
+## Quick Overview
+Our repository is a collection of WPRDC datasets and Jupyter Notebooks providing quantitative analysis on the best neighborhood in Pittsburgh based on air quality as well as (low) density of fish fry's and (high) density of public swimming pools.
