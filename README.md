@@ -3,8 +3,9 @@
 * Andrew Noonan(AJN104@pitt.edu)
 * Jeffery He(JIH267@pitt.edu)
 * Haiden Hunter(HNH21@pitt.edu)
-## File Ownership
+## Notebook Ownership
 * Air_quality.ipynb (Andrew Noonan)
+* Pool_Jeff.ipynb (Jeffery He)
 
 ## Links to data files
 [Air Quality](https://data.wprdc.org/dataset/allegheny-county-air-quality/resource/4ab1e23f-3262-4bd3-adbf-f72f0119108b)
