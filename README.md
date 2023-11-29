@@ -14,10 +14,6 @@
 [Air Quality](https://data.wprdc.org/dataset/allegheny-county-air-quality/resource/4ab1e23f-3262-4bd3-adbf-f72f0119108b)
 This dataset contains ratings of the local air quality.
 
-Reference List of Pittsburgh Neighborhoods
-
-This dataset contains a list of all Pittsburgh neighborhoods.
-
 [Fish Fry Locations](https://data.wprdc.org/dataset/pittsburgh-fish-fry-map/resource/511a29f6-3217-4f61-a9ba-b3b5b35ab5fb)
 This dataset contains lists of local fish fry locations of the last 5 years.
 
