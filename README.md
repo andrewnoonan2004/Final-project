@@ -1,5 +1,9 @@
 ## Team *Garlic*
-## What is the best neighborhood in Pittsburgh to *walk* your goldfish?
+## Team Members
+* Andrew Noonan(AJN104@pitt.edu)
+* Jeffery He(JIH267@pitt.edu)
+* Haiden Hunter(HNH21@pitt.edu)
+
 
 ## Link to data files
 [Air Quality](https://data.wprdc.org/dataset/allegheny-county-air-quality/resource/4ab1e23f-3262-4bd3-adbf-f72f0119108b)
@@ -8,9 +12,9 @@
 
 [Public Swimming Pool Locations](https://data.wprdc.org/dataset/allegheny-county-public-swimming-pool-hot-tub-and-spa-inspections)
 
-## Our Metrics for the best Neighborhood:
-	
-	- Good Air Quality
-	- Lowest Number of Fish Fry's
-	- Highest number of public swimming pools
+## What is the best neighborhood in Pittsburgh to *walk* your goldfish?
+## Our metrics for deciding the best neighborhood were:
+	* Good Air Quality
+	* Low Number of Fish Fry's
+	* High number of public swimming pools
 	
