@@ -8,6 +8,7 @@
 ## Notebook Ownership
 * Air_quality.ipynb (Andrew Noonan)
 * Pool_Jeff.ipynb (Jeffery He)
+* finalProjectHaiden.ipynb (Haiden Hunter)
 
 ## Links to data files
 [Air Quality](https://data.wprdc.org/dataset/allegheny-county-air-quality/resource/4ab1e23f-3262-4bd3-adbf-f72f0119108b)
