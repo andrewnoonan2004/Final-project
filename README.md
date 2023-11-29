@@ -1,8 +1,10 @@
 ## Team *Garlic*
+
 ## Team Members
 * Andrew Noonan(AJN104@pitt.edu)
 * Jeffery He(JIH267@pitt.edu)
 * Haiden Hunter(HNH21@pitt.edu)
+
 ## Notebook Ownership
 * Air_quality.ipynb (Andrew Noonan)
 * Pool_Jeff.ipynb (Jeffery He)
@@ -20,3 +22,8 @@
 	* Low Number of Fish Fry's
 	* High number of public swimming pools
 	
+    
+NEED TO ADD:
+    Discription of data sets (haiden)
+    add neighborhood data set (haiden)
+    A one sentence overview of your repository, meant for someone who is not familiar with the project
