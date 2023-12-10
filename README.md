@@ -1,4 +1,4 @@
-## Team *Garlic*
+## Team *Garlic* (Canvas Group 46)
 
 ## Team Members
 * Andrew Noonan(AJN104@pitt.edu)
